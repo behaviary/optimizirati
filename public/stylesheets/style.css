@@ -1,0 +1,36 @@
+/* Universal styles*/
+body {
+  padding: 50px;
+  font: 14px "Oriya Sangam MN", Helvetica, Arial, sans-serif;
+  background-color: #ccffcc;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* Casa Page Styles */
+.casa {
+	color: #00B7FF;
+	text-align: center;
+	font-size: 60pt;
+	font-family: "Arial Black", Arial, sans-serif;
+}
+.casa h1 {
+	margin:0;
+	font-family: "Arial Black", Arial, sans-serif;
+}
+
+span {
+	display: inline-block;
+}
+
+img.o {
+	color:black;
+	height:120px;
+	padding: 0 10px;
+}
+
+
+
+/* Email Form Styles */
